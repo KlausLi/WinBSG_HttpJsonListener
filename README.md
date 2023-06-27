@@ -1,5 +1,5 @@
 Prgramm WinBSGHttpListener.exe herunterladen und an beliebiger Stelle eurer Festplatte ablegen und ausführen  
-- getestet mit Win und installiertem DotNet Framework  
+- getestet mit Windows10 und installiertem DotNet Framework  
   
 # WinBSG_HttpJsonListener
 Ein SIMPLES  Json Server Tool zum testen von Json aufrufen , simulieren von Tasmota ausgaben ...Http Server Json Server  
