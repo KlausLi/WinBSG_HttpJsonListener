@@ -14,5 +14,5 @@ https://www.youtube.com/c/BavarianSuperGuy
 <img src="Initial.png" alt="Start Formular"/>  
 
 UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)
-<img src="help.png" alt="HELP HANDBUCH/>
+<img src="help.png" alt="HELP HANDBUCH"/>
 
