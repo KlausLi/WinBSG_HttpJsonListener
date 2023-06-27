@@ -17,6 +17,7 @@ https://www.youtube.com/c/BavarianSuperGuy
   
 UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-) 
 - Interface Auswahl , wann du mehrere Netzwerkkarten hast, das richtige mit deinem IP Bereich auswählen 
+- Response Text kann während Laufzeit geändert werden und wird bei aktualisieren des Browserfensters bzw. UrL abfrage auch so ausgegeben
   
 <img src="help.png" alt="HELP HANDBUCH"/>  
   
