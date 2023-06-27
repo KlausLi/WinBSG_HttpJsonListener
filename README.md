@@ -12,7 +12,9 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 https://www.youtube.com/c/BavarianSuperGuy  
 
 <img src="Initial.png" alt="Start Formular"/>  
-
-UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)
+  
+  
+UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)  
+  
 <img src="help.png" alt="HELP HANDBUCH"/>
 
