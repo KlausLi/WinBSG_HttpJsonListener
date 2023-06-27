@@ -16,5 +16,15 @@ https://www.youtube.com/c/BavarianSuperGuy
   
 UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)  
   
-<img src="help.png" alt="HELP HANDBUCH"/>
+<img src="help.png" alt="HELP HANDBUCH"/>  
+  
+
+Anwendungsbeispiele 
+Beispiel1  
+<img src="Beispiel1.png" alt="Json Server Schwein"/>
+  
+  
+Beispiel2  
+<img src="Beispiel2.png" alt="Json Server Schwein"/>
+
 
