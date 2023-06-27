@@ -22,7 +22,7 @@ UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)
 - Interface Auswahl , wann du mehrere Netzwerkkarten hast, das richtige mit deinem IP Bereich auswählen 
 - Response Text kann während Laufzeit geändert werden und wird bei aktualisieren des Browserfensters bzw. UrL abfrage auch so ausgegeben
 - 2 Beispiele weiter unten  
-- Man kann auch mehrere Server zeitgleich starten mit verschiedenen Port oder/und IP Kombination  
+- Man kann auch mehrere Server(WinBSGHttpListener.exe) zeitgleich starten mit verschiedenen Port oder/und IP Kombination  
 2 gleiche Url starten gibt natürlich Fehler ! UND KOST A MAß !
   
 <img src="help.png" alt="HELP HANDBUCH"/>  
