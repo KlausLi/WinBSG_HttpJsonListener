@@ -18,11 +18,13 @@ https://www.youtube.com/c/BavarianSuperGuy
 UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-) 
 - Interface Auswahl , wann du mehrere Netzwerkkarten hast, das richtige mit deinem IP Bereich auswählen 
 - Response Text kann während Laufzeit geändert werden und wird bei aktualisieren des Browserfensters bzw. UrL abfrage auch so ausgegeben
+- 2 Beispiele weiter unten  
   
 <img src="help.png" alt="HELP HANDBUCH"/>  
   
 
-Anwendungsbeispiele 
+Anwendungsbeispiele  
+  
 Beispiel1  
 <img src="Beispiel1.png" alt="Json Server Schwein"/>
   
