@@ -15,7 +15,8 @@ https://www.youtube.com/c/BavarianSuperGuy
 <img src="Initial.png" alt="Start Formular"/>  
   
   
-UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-)  
+UND HIER das HANDBUCH ! Fragen zwecklos! Spenden  erlaubt :-) 
+- Interface Auswahl , wann du mehrere Netzwerkkarten hast, das richtige mit deinem IP Bereich auswählen 
   
 <img src="help.png" alt="HELP HANDBUCH"/>  
   
